@@ -10,7 +10,7 @@
   </a>
 </div>
   
-- 👋 Hi, I’m Sriharri R
+- 👋 Hi, I’m Sri Harri R
 - 🎓 I am a college student in the field of Artificial Intelligence & Data Science.
 - 💡 I am interested in projects involving AI and am keenly interested in AI (Machine learning & Deep learning).
 - ✨ Feel free to reach out to me at sriharripr2003@gmail.com
